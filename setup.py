@@ -66,7 +66,7 @@ except ImportError:
 
 setup(
     name = "django_nav",
-    version = version.replace(' ', '-'),
+    version = version.replace(' ', '.'),
     url = 'http://code.google.com/p/django-nav/',
     author = 'Dj Gilcrease',
     author_email = 'digitalxero@gmail.com',
